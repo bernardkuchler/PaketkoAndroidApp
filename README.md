@@ -1,4 +1,4 @@
-# PaketkoAndroidApp
+# Paketko android aplikacija
 
 Repozitorij za Android aplikacijo informacijskega sistema Paketko.
 
